@@ -1,8 +1,7 @@
 # hello-world
 
 Hello everyone!
-
-I am Sihi Shear from India.
-I am just getting started with GitHub and hope that this would be a wonderful experience.
+I am Sihi Shear.
 This is my first repository.
+I have made this after going through the GitHub Guide
 GitHub Guide link: https://guides.github.com/activities/hello-world/
